@@ -2,24 +2,24 @@
 ---
 
 :root {
-    --color-background: #fffdfb;
-    --theme1-light: #F6D8CB;
-    --theme1-medium: #D0A694;
-    --theme1-dim: #B07D67;
-    --theme1-dark: #8A5843;
-    --theme2-light: #B1B1C2;
-    --theme2-medium: #8888A4;
-    --theme2-dim: #66658C;
-    --theme2-dark: #484776;
-    --theme3-light: #FFF8E4;
-    --theme3-medium: #EBDFBB;
-    --theme3-dim: #C8B887;
-    --theme3-dark: #A8955A;
-    --theme4-light: #AABEB6;
-    --theme4-medium: #7FA093;
-    --theme4-dim: #5C8876;
-    --theme4-dark: #3D725D;
-    --font-dark: #202424;
+    --color-background: #f4f4f4; /* Slightly lighter background */
+    --theme1-light: #e6b6a3; /* Softer light tone */
+    --theme1-medium: #d09972; /* Warm and professional */
+    --theme1-dim: #9f7a58; /* Slightly deeper tone */
+    --theme1-dark: #704e36; /* Richer, deeper brown */
+    --theme2-light: #a9a9c2; /* Soft greyish-blue */
+    --theme2-medium: #8688a1; /* Muted greyish-blue */
+    --theme2-dim: #64678f; /* Deeper grey-blue */
+    --theme2-dark: #454a72; /* Darker shade for emphasis */
+    --theme3-light: #f9f2d9; /* Light cream, warmer */
+    --theme3-medium: #e0d9b3; /* Soft yellowish beige */
+    --theme3-dim: #c1b489; /* Muted beige */
+    --theme3-dark: #a68c5a; /* Professional dark beige */
+    --theme4-light: #97b4ab; /* Subtle minty green */
+    --theme4-medium: #6d8e73; /* Earthy muted green */
+    --theme4-dim: #4e6b56; /* Deeper green for accents */
+    --theme4-dark: #365240; /* Dark forest green */
+    --font-dark: #2c2c2c; /* Darker text for high contrast */
 }
 
 html, body {
