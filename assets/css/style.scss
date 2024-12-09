@@ -2,29 +2,29 @@
 ---
 
 :root {
-    --color-background: #2E2E2E;    /* Charcoal black background for a sleek, modern look */
-    
-    --theme1-light: #8B6F47;         /* Deep caramel brown, rich and warm */
-    --theme1-medium: #5E3B2D;        /* Dark terracotta brown, elegant and grounded */
-    --theme1-dim: #3C2718;           /* Dark earthy brown with rustic tones */
-    --theme1-dark: #1F1410;          /* Deep, almost black brown */
-    
-    --theme2-light: #4A5D6C;         /* Dark slate blue, cool and modern */
-    --theme2-medium: #2E3A46;        /* Deep navy blue, professional and elegant */
-    --theme2-dim: #1A242F;           /* Rich charcoal blue, depth and contrast */
-    --theme2-dark: #0C131A;          /* Almost black with blue undertones, luxurious feel */
-    
-    --theme3-light: #D1B89D;         /* Dark beige with warm undertones */
-    --theme3-medium: #C5A87D;        /* Muted amber beige, deep and sophisticated */
-    --theme3-dim: #9E7F4F;           /* Earthy dark beige with golden hue */
-    --theme3-dark: #6A5035;          /* Deep, rich brown-beige for depth */
-    
-    --theme4-light: #3B5449;         /* Dark sage green, muted and sophisticated */
-    --theme4-medium: #2D4235;        /* Forest green with earthy tone */
-    --theme4-dim: #1F2A22;           /* Deep emerald green with intensity */
-    --theme4-dark: #0C1611;          /* Almost black forest green for rich elegance */
-    
-    --font-dark: #D1D1D1;            /* Light grey for text, contrasting against dark background */
+    /* Background Color */
+    --color-background: #1A1A1A;    /* Charcoal Black background for richness */
+
+    /* Gold Tones */
+    --gold-light: #D4AF37;           /* Warm metallic gold for highlights */
+    --gold-medium: #B88A2D;          /* Rich gold for balance */
+    --gold-dim: #9E7C2B;             /* Muted gold for accents */
+    --gold-dark: #6F4F1A;            /* Deep gold with brown undertone */
+
+    /* Red Tones */
+    --red-light: #D9534F;            /* Rich red with a coral undertone */
+    --red-medium: #9E2A2F;           /* Deep red, sophisticated burgundy */
+    --red-dim: #6C1C1B;              /* Darkened red for bold accents */
+    --red-dark: #3E0C0A;             /* Almost black-red for powerful elements */
+
+    /* Blue Tones */
+    --blue-light: #3A8DFF;           /* Vibrant bright blue for highlights */
+    --blue-medium: #1F4C8D;          /* Rich, professional blue */
+    --blue-dim: #1A3C59;             /* Deep blue with earthy undertones */
+    --blue-dark: #0B2239;            /* Almost black navy, professional depth */
+
+    /* Text Color */
+    --font-light: #F5F5F5;           /* Light off-white text for high contrast */
 }
 
 
