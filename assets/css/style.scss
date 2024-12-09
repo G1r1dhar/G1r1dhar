@@ -2,29 +2,31 @@
 ---
 
 :root {
-    --color-background: #F4F4F4;    /* Light greyish background for a clean, subtle look */
-    --theme1-light: #E6B6A3;        /* Softer, warm beige with a hint of blush */
-    --theme1-medium: #D09972;       /* Professional, warm tone with brown undertones */
-    --theme1-dim: #9F7A58;          /* Slightly muted, earthy warm brown */
-    --theme1-dark: #704E36;         /* Rich, deep brown for depth */
+    --color-background: #F8F8F8;    /* Soft, modern light grey */
     
-    --theme2-light: #A9A9C2;        /* Soft greyish-blue for a sophisticated feel */
-    --theme2-medium: #8688A1;       /* Muted grey-blue, calm and neutral */
-    --theme2-dim: #64678F;          /* Deeper blue-grey with elegance */
-    --theme2-dark: #454A72;         /* Dark, rich blue for contrast and depth */
+    --theme1-light: #D9A897;        /* Warm beige with a soft blush undertone */
+    --theme1-medium: #C58F6D;       /* Muted caramel for a natural, warm tone */
+    --theme1-dim: #9A6B46;          /* Earthy brown with a rustic feel */
+    --theme1-dark: #5E3B2B;         /* Deep, rich brown for elegance */
     
-    --theme3-light: #F9F2D9;        /* Light cream with a warm, soft vibe */
-    --theme3-medium: #E0D9B3;       /* Warm beige with soft yellow undertones */
-    --theme3-dim: #C1B489;          /* Muted beige, warm and professional */
-    --theme3-dark: #A68C5A;         /* Professional dark beige for depth */
+    --theme2-light: #B0BBC4;        /* Cool light blue-grey for a modern touch */
+    --theme2-medium: #8A95A5;       /* Soft grey with a hint of blue */
+    --theme2-dim: #5F6878;          /* Muted slate grey */
+    --theme2-dark: #3F4A5D;         /* Rich navy grey for contrast and focus */
     
-    --theme4-light: #97B4AB;        /* Muted minty green for a subtle fresh feel */
-    --theme4-medium: #6D8E73;       /* Earthy, muted green for calm professionalism */
-    --theme4-dim: #4E6B56;          /* Deeper green for accent and sophistication */
-    --theme4-dark: #365240;         /* Rich, dark forest green for a grounded look */
+    --theme3-light: #F3E8D2;        /* Light cream with a golden undertone */
+    --theme3-medium: #E2D1A2;       /* Warm, soft beige */
+    --theme3-dim: #C7B68B;          /* Muted beige with soft, earthy appeal */
+    --theme3-dark: #A79A6E;         /* Deep beige with golden accents */
     
-    --font-dark: #2C2C2C;           /* Deep charcoal for high contrast text */
+    --theme4-light: #A1B9A4;        /* Muted sage green for sophistication */
+    --theme4-medium: #7A9276;       /* Dusty olive green, subtle and earthy */
+    --theme4-dim: #4E6B4A;          /* Deep olive for professional grounding */
+    --theme4-dark: #334C34;         /* Dark forest green for depth and richness */
+    
+    --font-dark: #212121;           /* Dark charcoal for contrast and clarity */
 }
+
 
 html, body {
     margin:0;
